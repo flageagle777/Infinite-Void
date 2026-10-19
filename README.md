@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Infinite Void" width="100%">
+  <img src="banner.svg" alt="Infinite Void" width="100%">
 </p>
 
 <p align="center">
